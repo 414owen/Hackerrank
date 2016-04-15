@@ -1,6 +1,6 @@
 ### What is this repository for? ###
 
-This repository hosts my solutions to problems from [HackerRank](www.hackerrank.com)
+This repository hosts my solutions to problems from [HackerRank](https://www.hackerrank.com)
 
 ### How do I test the Haskell code? ###
 
